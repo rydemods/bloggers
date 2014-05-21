@@ -1,0 +1,11 @@
+/*
+ Theme Name:     bloggerstheme
+ Theme URI:      http://www.seoulwebdesign.com
+ Description:    Bloggers child to framework
+ Author:         Stevie Dean	
+ Author URI:     http://www.seoulwebdesign.com
+ Template:       framework
+ Version:        1.0.0
+*/
+
+@import url("../framework/style.css");
